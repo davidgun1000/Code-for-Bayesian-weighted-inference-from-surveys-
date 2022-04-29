@@ -1,5 +1,10 @@
 %simulation 2
 %function out = simulate1alternative2(k_P)
+
+%this code replicates the experiment 1 in Gunawan et al (2020)
+%The code compares the weighted frequentist and Bayesian approaches. 
+%Please read the paper for further details. 
+
 k_P='1';
 seednum = str2double(k_P);
 parpool(28)
