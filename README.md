@@ -1,7 +1,20 @@
 # Code-for-Bayesian-weighted-inference-from-surveys-
-Code for implementing Bayesian weighted inference from surveys, Australian and New Zealand Journal of Statistics, 62 (1), 71 - 94
-This code replicates the experiment 1 in Gunawan et al (2020), "Bayesian weighted in Surveys".
-The main code is simulate1alternative2.m
+Bayesian Weighted Inference from Surveys
+This repository contains MATLAB code for the paper:
 
-You can download the files then run the main code to replicate the experiment 1 in Gunawan et al. (2020).
+"Bayesian Weighted Inference from Surveys"
+David Gunawan, William Griffiths, and Duangkamon Chotikapanich (2020)
+Australian and New Zealand Journal of Statistics, 62(1), pp. 71–94.
+
+🔧 Main Script
+simulate1alternative2.m — This script replicates Experiment 1 from Gunawan et al. (2020).
+
+▶️ How to Run
+Download all files from the repository.
+
+Open MATLAB and run the script: simulate1alternative2.m
+
+The script will reproduce the results of Experiment 1 as presented in the paper.
+
+Please refer to the original paper for full methodological details and interpretation of results.
 
